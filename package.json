@@ -9,6 +9,14 @@
   "publishConfig": {
     "access": "public"
   },
+  "keywords": [
+    "random",
+    "crypto",
+    "string",
+    "text",
+    "hex",
+    "secure"
+  ],
   "files": [
     "dist"
   ],
