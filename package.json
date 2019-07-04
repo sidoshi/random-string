@@ -2,7 +2,7 @@
   "name": "@sidoshi/random-string",
   "description": "Create cryptographically random strings.",
   "repository": "https://github.com/sidoshi/random-string",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "main": "dist/index.js",
   "module": "dist/random-string.esm.js",
   "typings": "dist/index.d.ts",
